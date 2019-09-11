@@ -8,7 +8,7 @@ The prediction methods chosen were: Active LeZi (ALZ), SPEED and LSTM neural net
 
 The data used in the project is not public and therefore not uploaded here.<br />
 
-We carried on prediction of the next sensor event/activity and time information.<br />
+We carried out prediction of the next sensor event/activity and time information.<br />
 
 # files in this folder:
 
