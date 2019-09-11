@@ -12,10 +12,10 @@ We carried on prediction of the next sensor event/activity and time information.
 
 # files in this folder:
 
-> propabilistic methods can be tested with the files SPEED.py and Lezi.py. They require TreePPM.py to run. <br />
-> all_methods_accMemory.py applied all the methods (ALZ, SPEED, LSTM nets) to plot graphs of the accuracies for different sizes of memory length. <br />
-> data_preparation.py has functions for reading the csv files and for a number of ways to input the data to the algorithms. <br />
-> sequential_activity_dataset.py and concurrent_activity_dataset.py have the rules for transforming binary sensor data to activity datasets, as explained in the thesis. <br />
-> transfer_learning.py has the script for doing transfer learning across the different apartments to predict the next sensor event.
+- propabilistic methods can be tested with the files SPEED.py and Lezi.py. They require TreePPM.py to run. <br />
+- all_methods_accMemory.py applied all the methods (ALZ, SPEED, LSTM nets) to plot graphs of the accuracies for different sizes of memory length. <br />
+- data_preparation.py has functions for reading the csv files and for a number of ways to input the data to the algorithms. <br />
+- sequential_activity_dataset.py and concurrent_activity_dataset.py have the rules for transforming binary sensor data to activity datasets, as explained in the thesis. <br />
+- transfer_learning.py has the script for doing transfer learning across the different apartments to predict the next sensor event.
 
 
