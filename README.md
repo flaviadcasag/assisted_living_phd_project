@@ -1,4 +1,4 @@
-# assisted_living_pdh_project
+# assisted_living_phd_project
 
 The files in this folder were used in the project "AssistedLiving Project – responsible innovations for dignified lives at home for peoplewith mild cognitive impairment or dementia". This is a result from the Ph.D. Thesis "Sensor Event and Activity Prediction using Binary Sensors in Real Homes with Older Adults".<br />
 The thesis will be made available after the defense has taken place.<br />
